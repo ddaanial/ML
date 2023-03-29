@@ -1,1 +1,1 @@
-implement most important ml algorithms from scratch
+Implement Most Important ML Algorithms From Scratch.
