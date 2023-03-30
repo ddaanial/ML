@@ -2,27 +2,27 @@ Implement The Most Important ML Algorithms From Scratch.
 
 Algorithms Implemented:
 
-    KNN
+   KNN
 
-    Linear Regression
+   Linear Regression
 
-    Logistic Regression
+   Logistic Regression
 
-    Naive Bayes
+   Naive Bayes
 
-    Perceptron
+   Perceptron
 
-    SVM
+   SVM
 
-    Decision Tree
+   Decision Tree
 
-    Random Forest
+   Random Forest
 
-    Principal Component Analysis (PCA)
+   Principal Component Analysis (PCA)
 
-    K-Means
+   K-Means
 
-    AdaBoost
+   AdaBoost
 
-    Linear Discriminant Analysis (LDA)
+   Linear Discriminant Analysis (LDA)
 
